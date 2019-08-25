@@ -3,6 +3,8 @@ Konwersja plików PDF do formatu PDF/A3-b
 
 Aplikacja wykorzystuje do konwersji plików bibliotekę iText 7 (https://itextpdf.com)
 
+# Copyright (C) 
+
 Copyright (C) 2019  Grzegorz Gogolewski
 
 This program is free software: you can redistribute it and/or modify
