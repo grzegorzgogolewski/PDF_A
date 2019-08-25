@@ -1,0 +1,97 @@
+﻿akn;akt notarialny
+awz;akt własności ziemi
+amz;analiza materiałów źródłowych
+adeb;arkusz danych ewidencyjnych budynków
+adel;arkusz danych ewidencyjnych lokali
+matr;artykuł matrykuły lub matrykuła
+dec;decyzja
+dok-in;dokument inny
+dok-wyj;dokument wyjściowy
+dok-obl;dokumentacja obliczeniowa
+dz-p;dziennik pomiarowy
+dz-r;dziennik robót, prac
+k-bud;księga budynkowa
+k-par;księga parcel
+m-kl;mapa gleboznawczej klasyfikacji gruntów
+m-in;mapa inna
+m-wyn;mapa powykonawcza, wynikowa pracy
+m-uz;mapa uzupełniająca
+m-wyw;mapa wywiadu
+m-proj;mapa z projektem podziału
+m-wproj;mapa z wstępnym projektem podziału
+mpzp;miejscowy plan zagospodarowania przestrzennego
+zgl-odp;odpowiedź na zgłoszenie pracy geodezyjnej
+opin;opinia
+oim;opis i mapa, wypis i wyrys
+otop;opis topograficzny
+orz;orzeczenie, wyrok sądu
+osw;oświadczenie
+post;postanowienie
+p-kw;protokół badania księgi wieczystej, odpis
+p-g;protokół graniczny
+p-in;protokół inny
+p-kat;protokół katastralny, parcelowy
+r-in;raport inny
+r-gps;raport pomiarowy rtk/rtn
+rej-arch;rejestr archiwalny
+rej-in;rejestr inny
+rej-scal;rejestr przed/po scaleniowy
+sk-d;skorowidz/wykaz działek
+sk-w;skorowidz/wykaz właścicieli
+spis;spis treści
+s-tech;sprawozdanie techniczne
+str-tyt;strona tytułowa
+szk-inn;szkic inny
+szk-kat;szkic katastralny, podstawowy
+szk-osn;szkic osnowy
+szk-pol;szkic polowy
+szk-prz;szkic przeglądowy
+tr-pkt;transformacja punktów
+ugo;ugoda
+upow;upoważnienie, pełnomocnictwo
+wni-in;wniosek inny
+wni-prz;wniosek o przyjęcie dokumentacji do zasobu
+w-s;wykaz synchronizacyjny
+w-wsp;wykaz współrzędnych
+w-wyw;wykaz wywłaszczeniowy
+w-zde;wykaz zmian danych ewidencyjnych
+z-kat;zarys katastralny
+z-pom;zarys pomiarowy
+zasw;zaświadczenie
+zaw-zgl;zawiadomienie o wykonaniu zgłoszonych prac
+zaw-in;zawiadomienie, powiadomienie
+zaw-kw;zawiadomienie z wydziału kw
+zgl-prac;zgłoszenie pracy geodezyjnej
+zw;zwrotne potwierdzenie odbioru
+ane;aneks do zgłoszenia roboty
+wud;wniosek o uwierzytelnienie dokumentów
+dok-f;dokumentacja fotograficzna
+lic;licencja
+m-kat20;mapa katastralna 2000
+maplas;mapa leśna
+mt;mapa topograficzna
+m-topo20;mapa topograficzna 2000
+m-zasa20;mapa zasadnicza 2000
+opz;opinia zud
+orto;ortofotomapa
+zagosp;projekt zagospodarowania terenu
+zud;projekt zud
+rmzm;raster mapy zasadniczej - matryca
+rmzasm20;raster mapy zasadniczej - matryca 2000
+rmzp;raster mapy zasadniczej - pierworys
+rmzasp20;raster mapy zasadniczej - pierworys 2000
+wn-adr;wniosek o nadanie nr adresowego
+wyc;wyciąg
+wyp;wypowiedzenie opłaty
+zam;zamówienie na materiały
+zaw-adr;zawiadomienie o nadaniu numeru porządkowego
+zal-ewid;mapa z założenia ewidencji
+zas-prze;zasób przejściowy
+zak-pra;zakres pomiaru pracy
+p-przyj;protokół z przyjęcia granic nieruchomości
+p-wer;protokół weryfikacji
+p-utrw;protokół z czynności utrwalenia lub wyznaczenia punktów granicznych
+p-wzn;protokół wznowienia znaków granicznych
+mz;mapa zasadnicza
+sw;świadectwo nadania uprawnień zawodowych
+m-kat;mapa katastralna, stanu prawnego
