@@ -159,8 +159,6 @@ namespace PDF_A
                         continue;
                     }
 
-                    outputPdf.AddOutputIntent(rgbIntent);
-
                     srcPdf.Close();
 
                     PdfDocumentInfo info = outputPdf.GetDocumentInfo();
